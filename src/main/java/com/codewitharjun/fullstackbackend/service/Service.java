@@ -1,2 +1,4 @@
-package com.codewitharjun.fullstackbackend.service;public class Service {
+package com.codewitharjun.fullstackbackend.service;
+
+public class Service {
 }
